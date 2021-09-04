@@ -1,0 +1,121 @@
+.heading{
+    color:white;
+    font-size:200px;
+    font-family: 'Satisfy', cursive;
+    text-decoration: underline;
+    text-decoration-color: white;
+    
+}
+
+.main{
+    background-image: linear-gradient( pink,deeppink,deepskyblue );
+}
+
+.obj-head{
+    color:white;
+    font-size:100px;
+    font-family: 'Pacifico', cursive;
+
+}
+
+.obj1{
+    background-image:url(colodi.jpg);
+}
+.output{
+    color:white;
+    font-size:25px;
+}
+
+.div-obj-result{
+    border-color:white;
+    border-width:3px;
+    border-radius:30px;
+    border:2px white solid;
+    width:475px;
+    height:125px;
+}
+
+.obj2{
+    background-image:url(ipad.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+}
+
+.obj3{
+    background-image:url(t.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.obj4{
+    background-image:url(apples.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.obj5{
+    background-image:url(puzzle.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+
+.obj6{
+    background-image:url(bicycle-on-grassy-field-in-park-royalty-free-image-1589916167.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.obj7{
+    background-image:url(headphones.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.obj8{
+    background-image:url(yellow-flowers-1587061884.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+
+.obj9{
+    background-image:url(GettyImages-can-i-cut-my-hair-with-kitchen-scissorsOksana-Bratanova-EyeEm.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+
+.obj10{
+    background-image:url(dog-puppy-on-garden-royalty-free-image-1586966191.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.a{
+    background-color:skyblue;
+}
+
+.div-obj-result2{
+    border-color:white;
+    border-width:3px;
+    border-radius:30px;
+    border:2px white solid;
+    width:600x;
+    height:125px;
+}
